@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "react-router-dom": "^6.23.1"
+    "react-router-dom": "^6.23.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.7"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
